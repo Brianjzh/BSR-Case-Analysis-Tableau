@@ -27,10 +27,3 @@ Explore the interactive dashboard here: [View Dashboard](https://public.tableau.
 ## Future Improvements
 - Integrate predictive modeling for initiative outcomes.
 - Automate data refresh using Tableau's API.
-
----
-
-## How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
