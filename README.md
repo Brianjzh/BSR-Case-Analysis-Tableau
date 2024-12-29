@@ -1,4 +1,4 @@
-# Insurance Firm Dashboard Project
+# Insurance Firm Interactive Dashboard Project
 
 ## About
 This project analyzes data from an insurance firm to evaluate the effectiveness of health initiatives on employee satisfaction and engagement. The final interactive dashboard was built to present insights clearly and comprehensively.
